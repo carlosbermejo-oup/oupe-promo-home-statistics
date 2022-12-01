@@ -1,0 +1,19 @@
+{
+  "name": "oupe-promo-home-statistics",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:carlosbermejo-oup/oupe-promo-home-statistics.git",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Carlos Bermejo Pérez",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^8.0.0",
+    "mysql2": "^2.3.3",
+    "pactum": "^3.3.1"
+  }
+}
